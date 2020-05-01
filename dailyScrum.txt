@@ -7,7 +7,7 @@ First Scrum:
 
 1.To do until next scrum:
 - create user profile picture options (flower, cactus)
-- look into learning laravelle
+- look into learning laravel
 
 2. Need Assistance:
 - N/A
