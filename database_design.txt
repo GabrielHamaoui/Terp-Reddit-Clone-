@@ -1,0 +1,54 @@
+posts
+- id INT AI
+- authorId INT (user who created this post) FK
+- parentId  INT (NULL for top-level posts) FK
+- image .. NULL
+- video .. NULL
+- body VCHAR 2000
+- title VCHAR 100 NOT NULL
+- rating ENUM ('NSFW') NULL
+- CreationTS Timestamp
+- communityId int FK
+- votesResult INT 
+
+votes
+- id INT AI 
+- userId INT (user who voted) FK
+- postsId INT FK
+- value INT (either 1 or -1) or ENUM ('up','down')
+
+users
+- id INT AI
+- username VCHAR 30 delemiters tbd UNIQUE
+- password VCHAR 50 encryption?
+- email VCHAR 50 UNIQUE
+- CreationTS Timestamp
+- photo/icon .. NULL?
+- votesPoints INT 
+- isActive ENUM('true','false) // isValidated
+
+subscripition/follow
+- id INT AI 
+- userId INT FK
+- communityId INT FK
+- CreationTS Timestamp
+
+messages
+- id INT AI
+- fromUserId Int FK
+- toUserId INT FK
+- body VCHAR 400
+- CreationTS Timestamp
+
+communities
+- id INT AI
+- communityName VCHAR 40 UNIQUE
+- rating ENUM ('NSFW') 
+- creationTS Timestamp
+
+/userprofile (private) <- display and allow to modify user's profile (name, picture, email, password)
+
+/user/{username} - public profile of a user
+
+/forgottenpassword - send email with password reset link
+
