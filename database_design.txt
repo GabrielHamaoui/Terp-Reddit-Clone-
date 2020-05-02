@@ -4,8 +4,8 @@ posts
 - parentId  INT (NULL for top-level posts) FK
 - image .. NULL
 - video .. NULL
-- body VCHAR 2000
-- title VCHAR 100 NOT NULL
+- body VCHAR 2500
+- title VCHAR 200 NOT NULL
 - rating ENUM ('NSFW') NULL
 - CreationTS Timestamp
 - communityId int FK
@@ -20,8 +20,8 @@ votes
 users
 - id INT AI
 - username VCHAR 30 delemiters tbd UNIQUE
-- password VCHAR 50 encryption?
-- email VCHAR 50 UNIQUE
+- password VCHAR 24 encryption?
+- email VCHAR 100 UNIQUE
 - CreationTS Timestamp
 - photo/icon .. NULL?
 - votesPoints INT 
@@ -32,6 +32,8 @@ subscripition/follow
 - userId INT FK
 - communityId INT FK
 - CreationTS Timestamp
+- position ENUM 'Admin', 'Mod', 'User'
+- isBanned ENUM 'true', 'false'
 
 messages
 - id INT AI
