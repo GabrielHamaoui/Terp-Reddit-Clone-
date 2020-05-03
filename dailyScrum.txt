@@ -55,10 +55,16 @@ First Scrum:
 1/05/2020 Jessica:
 
 1. What was done since last scrum
+- continued making user user profile picture
+- began video on laravel
 
-2. To do until next scrum:
+2. To do until next scrum
+- finish laravel video
+- finish user profile picutures
+- look into node.js for laravel
 
 3. Need Assistance:
+-N/A
 
 -----------------------------------------------------------------------------------------------------
 
