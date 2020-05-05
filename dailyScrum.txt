@@ -84,3 +84,102 @@ First Scrum:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+02/05/2020 Jessica:
+
+1. What was done since last scrum
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+02/05/2020 Gabriel:
+
+1. What was done since last scrum
+- Laravel was set up on a test project
+- Started reading Documentation
+
+2. To do until next scrum:
+- Continue Reading Doc
+- Watch tutorials
+
+3. Need Assistance:
+- N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+03/05/2020 Jessica:
+
+1. What was done since last scrum
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+03/05/2020 Gabriel:
+
+1. What was done since last scrum
+- Read more Doc and watched some tutorials
+
+2. To do until next scrum:
+- N/A: mom's birthday
+
+3. Need Assistance:
+- N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+04/05/2020 Jessica:
+
+1. What was done since last scrum
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+04/05/2020 Gabriel:
+
+1. What was done since last scrum
+- N/A: mom's birthday
+
+2. To do until next scrum:
+- Continue getting familliar with laravel
+- More Tutorials
+- Pratice MVC 
+
+3. Need Assistance:
+- N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+05/05/2020 Jessica:
+
+1. What was done since last scrum
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+05/05/2020 Gabriel:
+
+1. What was done since last scrum
+- Practice, Read Doc, More tutorials
+
+2. To do until next scrum:
+- Start creating a test copy of project
+
+3. Need Assistance:
+-N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
