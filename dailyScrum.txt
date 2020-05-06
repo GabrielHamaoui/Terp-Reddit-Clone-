@@ -1,6 +1,8 @@
 SCRUM TEMPLATE
 ==============
 
+
+
 30/04/2020 Jessica:
 
 1. What was done since last scrum
@@ -23,6 +25,7 @@ SCRUM TEMPLATE
 
 DAILY SCRUM - EVERYDAY
 ==============================
+THURSDAY
 
 30/04/2020 Jessica:
 First Scrum:
@@ -50,7 +53,7 @@ First Scrum:
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+FRIDAY
 
 1/05/2020 Jessica:
 
@@ -83,16 +86,19 @@ First Scrum:
 - N/A
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+SATURDAY
 
 02/05/2020 Jessica:
 
 1. What was done since last scrum
+- watched a bit of laravel video
 
 2. To do until next scrum:
+- finish laravel video
+- finish user profile pictures
 
 3. Need Assistance:
-
+- N/S
 -----------------------------------------------------------------------------------------------------
 
 02/05/2020 Gabriel:
@@ -109,13 +115,16 @@ First Scrum:
 - N/A
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+SUNDAY
 
 03/05/2020 Jessica:
 
 1. What was done since last scrum
+- More laravel videos/tutorials
 
 2. To do until next scrum:
+- finish laravel videos
+- finish user profile pictures
 
 3. Need Assistance:
 
@@ -133,16 +142,20 @@ First Scrum:
 - N/A
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+MONDAY
 
 
 04/05/2020 Jessica:
 
 1. What was done since last scrum
+- N/A
 
 2. To do until next scrum:
+- finish laravel videos
+- finish user profile pictures
 
 3. Need Assistance:
+- N/A
 
 -----------------------------------------------------------------------------------------------------
 
@@ -159,16 +172,19 @@ First Scrum:
 3. Need Assistance:
 - N/A
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+TUESDAY
 
 05/05/2020 Jessica:
 
 1. What was done since last scrum
+- finished user profile pictures
+- finished laravel videos
 
 2. To do until next scrum:
+- install and create test project
 
 3. Need Assistance:
-
+- N/A
 -----------------------------------------------------------------------------------------------------
 
 05/05/2020 Gabriel:
