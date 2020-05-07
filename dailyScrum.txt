@@ -24,6 +24,9 @@ SCRUM TEMPLATE
 DAILY SCRUM - EVERYDAY
 ==============================
 
+THUSDAY
+-----------------
+
 30/04/2020 Jessica:
 First Scrum:
 **what was done since last scrum**
@@ -51,14 +54,16 @@ First Scrum:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+FRIDAY
+-----------------
 
 1/05/2020 Jessica:
 
-1. What was done since last scrum
+1. What was done since last scrum:
 - continued making user user profile picture
 - began video on laravel
 
-2. To do until next scrum
+2. To do until next scrum:
 - finish laravel video
 - finish user profile picutures
 - look into node.js for laravel
@@ -70,7 +75,7 @@ First Scrum:
 
 1/05/2020 Gabriel:
 
-1. What was done since last scrum
+1. What was done since last scrum:
 - Git + Trello created &  shared
 - Looked into Laravel
 
@@ -84,20 +89,28 @@ First Scrum:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+SATURDAY
+-----------------
 
 02/05/2020 Jessica:
 
-1. What was done since last scrum
+1. What was done since last scrum:
+- continued work on profile picutes
+- continued videos on laravel
 
 2. To do until next scrum:
+- finish laravel video
+- finish user profile picutures
+- look into node.js for laravel
 
 3. Need Assistance:
+- N/A
 
 -----------------------------------------------------------------------------------------------------
 
 02/05/2020 Gabriel:
 
-1. What was done since last scrum
+1. What was done since last scrum:
 - Laravel was set up on a test project
 - Started reading Documentation
 
@@ -110,20 +123,26 @@ First Scrum:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+SUNDAY
+-----------------
 
 03/05/2020 Jessica:
 
-1. What was done since last scrum
+1. What was done since last scrum:
+- finished user profile pictures
+- finished laravel videos
 
 2. To do until next scrum:
+- N/A
 
 3. Need Assistance:
+- N/A
 
 -----------------------------------------------------------------------------------------------------
 
 03/05/2020 Gabriel:
 
-1. What was done since last scrum
+1. What was done since last scrum:
 - Read more Doc and watched some tutorials
 
 2. To do until next scrum:
@@ -134,21 +153,26 @@ First Scrum:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
+MONDAY
+-----------------
 
 04/05/2020 Jessica:
 
-1. What was done since last scrum
+1. What was done since last scrum:
+- N/A
 
 2. To do until next scrum:
+- begin trial project using laravel
+- read laravel documentation
 
 3. Need Assistance:
+- N/A
 
 -----------------------------------------------------------------------------------------------------
 
 04/05/2020 Gabriel:
 
-1. What was done since last scrum
+1. What was done since last scrum:
 - N/A: mom's birthday
 
 2. To do until next scrum:
@@ -160,20 +184,24 @@ First Scrum:
 - N/A
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+TUESDAY
+-----------------
 
 05/05/2020 Jessica:
 
-1. What was done since last scrum
+1. What was done since last scrum:
+- started laravel test project
 
 2. To do until next scrum:
+- continue work
 
 3. Need Assistance:
-
+- N/A
 -----------------------------------------------------------------------------------------------------
 
 05/05/2020 Gabriel:
 
-1. What was done since last scrum
+1. What was done since last scrum:
 - Practice, Read Doc, More tutorials
 
 2. To do until next scrum:
@@ -181,5 +209,127 @@ First Scrum:
 
 3. Need Assistance:
 -N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WEDNESDAY
+-----------------
+
+06/05/2020 Jessica:
+
+1. What was done since last scrum
+- continued work on test project
+
+2. To do until next scrum:
+- continue test project
+
+3. Need Assistance:
+- N/A
+
+-----------------------------------------------------------------------------------------------------
+
+06/05/2020 Gabriel:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+THURSDAY
+-----------------
+
+07/05/2020 Jessica:
+
+1. What was done since last scrum:
+- continued work on test project
+
+2. To do until next scrum:
+- complete laravel test project
+
+3. Need Assistance:
+-N/A
+
+-----------------------------------------------------------------------------------------------------
+
+07/05/2020 Gabriel:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FRIDAY
+-----------------
+
+08/05/2020 Jessica:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+08/05/2020 Gabriel:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SATURDAY
+-----------------
+
+09/05/2020 Jessica:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+09/05/2020 Gabriel:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SUNDAY
+-----------------
+
+10/05/2020 Jessica:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+10/05/2020 Gabriel:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
