@@ -1,8 +1,6 @@
 SCRUM TEMPLATE
 ==============
 
-
-
 30/04/2020 Jessica:
 
 1. What was done since last scrum
@@ -25,7 +23,6 @@ SCRUM TEMPLATE
 
 DAILY SCRUM - EVERYDAY
 ==============================
-THURSDAY
 
 30/04/2020 Jessica:
 First Scrum:
@@ -53,7 +50,7 @@ First Scrum:
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-FRIDAY
+
 
 1/05/2020 Jessica:
 
@@ -86,116 +83,100 @@ FRIDAY
 - N/A
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-SATURDAY
 
-02/05/2020 Jessica:
+2/05/2020 Jessica:
 
 1. What was done since last scrum
-- watched a bit of laravel video
+- continued making user user profile picture
+- began video on laravel
 
-2. To do until next scrum:
+2. To do until next scrum
 - finish laravel video
-- finish user profile pictures
-
-3. Need Assistance:
-- N/S
------------------------------------------------------------------------------------------------------
-
-02/05/2020 Gabriel:
-
-1. What was done since last scrum
-- Laravel was set up on a test project
-- Started reading Documentation
-
-2. To do until next scrum:
-- Continue Reading Doc
-- Watch tutorials
-
-3. Need Assistance:
-- N/A
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-SUNDAY
-
-03/05/2020 Jessica:
-
-1. What was done since last scrum
-- More laravel videos/tutorials
-
-2. To do until next scrum:
-- finish laravel videos
-- finish user profile pictures
-
-3. Need Assistance:
-
------------------------------------------------------------------------------------------------------
-
-03/05/2020 Gabriel:
-
-1. What was done since last scrum
-- Read more Doc and watched some tutorials
-
-2. To do until next scrum:
-- N/A: mom's birthday
-
-3. Need Assistance:
-- N/A
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-MONDAY
-
-
-04/05/2020 Jessica:
-
-1. What was done since last scrum
-- N/A
-
-2. To do until next scrum:
-- finish laravel videos
-- finish user profile pictures
-
-3. Need Assistance:
-- N/A
-
------------------------------------------------------------------------------------------------------
-
-04/05/2020 Gabriel:
-
-1. What was done since last scrum
-- N/A: mom's birthday
-
-2. To do until next scrum:
-- Continue getting familliar with laravel
-- More Tutorials
-- Pratice MVC 
-
-3. Need Assistance:
-- N/A
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-TUESDAY
-
-05/05/2020 Jessica:
-
-1. What was done since last scrum
-- finished user profile pictures
-- finished laravel videos
-
-2. To do until next scrum:
-- install and create test project
-
-3. Need Assistance:
-- N/A
------------------------------------------------------------------------------------------------------
-
-05/05/2020 Gabriel:
-
-1. What was done since last scrum
-- Practice, Read Doc, More tutorials
-
-2. To do until next scrum:
-- Start creating a test copy of project
+- finish user profile picutures
+- look into node.js for laravel
 
 3. Need Assistance:
 -N/A
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----------------------------------------------------------------------------------------------------
+
+2/05/2020 Gabriel:
+
+1. What was done since last scrum
+- Git + Trello created &  shared
+- Looked into Laravel
+
+2. To do until next scrum:
+- Download Laravel and set it up
+- Keep watching tutorials on Laravel
+- Potentially get familliar with Node.js too
+
+3. Need Assistance:
+- N/A
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3/05/2020 Jessica:
+
+1. What was done since last scrum
+- continued making user user profile picture
+- began video on laravel
+
+2. To do until next scrum
+- finish laravel video
+- finish user profile picutures
+- look into node.js for laravel
+
+3. Need Assistance:
+-N/A
+
+-----------------------------------------------------------------------------------------------------
+
+3/05/2020 Gabriel:
+
+1. What was done since last scrum
+- Git + Trello created &  shared
+- Looked into Laravel
+
+2. To do until next scrum:
+- Download Laravel and set it up
+- Keep watching tutorials on Laravel
+- Potentially get familliar with Node.js too
+
+3. Need Assistance:
+- N/A
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+3/05/2020 Jessica:
+
+1. What was done since last scrum
+- continued making user user profile picture
+- began video on laravel
+
+2. To do until next scrum
+- finish laravel video
+- finish user profile picutures
+- look into node.js for laravel
+
+3. Need Assistance:
+-N/A
+
+-----------------------------------------------------------------------------------------------------
+
+3/05/2020 Gabriel:
+
+1. What was done since last scrum
+- Git + Trello created &  shared
+- Looked into Laravel
+
+2. To do until next scrum:
+- Download Laravel and set it up
+- Keep watching tutorials on Laravel
+- Potentially get familliar with Node.js too
+
+3. Need Assistance:
+- N/A
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
