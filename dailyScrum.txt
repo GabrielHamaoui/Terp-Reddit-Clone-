@@ -336,10 +336,10 @@ SUNDAY
 10/05/2020 Jessica:
 
 1. What was done since last scrum:
-- completed CRUD with laravel for test proj.
+- continued work on cv
 
 2. To do until next scrum:
-- implement file upload (video and images)
+- continue practice with test project
 
 3. Need Assistance:
 - N/A
@@ -367,10 +367,14 @@ MONDAY
 10/05/2020 Jessica:
 
 1. What was done since last scrum:
+- N/A (mother's day)
 
 2. To do until next scrum:
+- complete CRUD with laravel
+- implement file upload (video and images)
 
 3. Need Assistance:
+- N/A
 
 -----------------------------------------------------------------------------------------------------
 
@@ -395,10 +399,15 @@ TUESDAY
 10/05/2020 Jessica:
 
 1. What was done since last scrum:
+- completed CRUD using laravel
 
 2. To do until next scrum:
+- implement CRUD for terp
+- test file upload for with tester project (with images and video)
+- test youtube player with iframe
 
 3. Need Assistance:
+- N/A
 
 -----------------------------------------------------------------------------------------------------
 
