@@ -15,10 +15,9 @@ class CreateSubscriptionsTable extends Migration
     {
         Schema::create('subscriptions', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('userId')->references('id')->on('users');
-            $table->index('userId');
-            $table->foreignId('communityId')->references('id')->on('communities');
-            $table->index('communityId');
+            $table->unsignedBigInteger('userId');
+            $table->unsignedBigInteger('communityId');
+            $table->enum('isMod', ['Mod']);
             $table->timestamps();
         });
     }

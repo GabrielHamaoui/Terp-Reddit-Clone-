@@ -13,14 +13,11 @@ class CreatePostsTable extends Migration
      */
     public function up()
     {
-        Schema::create('posts', function (Blueprint $table) { // TODO dont forget on delete and on update***
+        Schema::create('posts', function (Blueprint $table) { // TODO check tables all work
             $table->id();
-            $table->foreignId('userId')->references('id')->on('users');
-            $table->index('userId'); // TODO fix foreign key constraints
-            $table->foreignId('parentId')->references('id')->on('users');
-            $table->index('userId'); // TODO nullable foreign key
-            $table->foreignId('communityId')->references('id')->on('communities');
-            $table->index('communityId');
+            $table->unsignedBigInteger('userId');
+            $table->unsignedBigInteger('parentId')->nullable();
+            $table->unsignedBigInteger('communityId');
             $table->string('title', 140);
             $table->string('body', 1400)->nullable();
             $table->binary('image')->nullable(); // BLOB equivalent
