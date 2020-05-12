@@ -231,11 +231,14 @@ WEDNESDAY
 06/05/2020 Gabriel:
 
 1. What was done since last scrum:
+- Read/Watched more on Laravel
 
 2. To do until next scrum:
+- Continue Reading and Watching more on Laravel
+- Continue practicing using test project
 
 3. Need Assistance:
-
+-N/A
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -258,11 +261,14 @@ THURSDAY
 07/05/2020 Gabriel:
 
 1. What was done since last scrum:
+- Read/Watched more on Laravel
 
 2. To do until next scrum:
+- Continue Reading and Watching more on Laravel
+- Continue practicing using test project
 
 3. Need Assistance:
-
+- N/A
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 FRIDAY
@@ -281,11 +287,14 @@ FRIDAY
 08/05/2020 Gabriel:
 
 1. What was done since last scrum:
+- Read/Watched more on Laravel
+- Continued Practicing with test project
 
 2. To do until next scrum:
+- Take break
 
 3. Need Assistance:
-
+- N/A
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 SATURDAY
@@ -304,10 +313,14 @@ SATURDAY
 09/05/2020 Gabriel:
 
 1. What was done since last scrum:
+- Took Break
 
 2. To do until next scrum:
+- Continue Reading and Watching more on Laravel
+- Continue practicing using test project
 
 3. Need Assistance:
+- N/A
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -327,9 +340,69 @@ SUNDAY
 10/05/2020 Gabriel:
 
 1. What was done since last scrum:
+- Read/Watched more on Laravel
+- Continued Practicing with test project
+
+2. To do until next scrum:
+- Continue Reading and Watching more on Laravel
+- Continue practicing using test project
+
+3. Need Assistance:
+- N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MONDAY
+-----------------
+
+10/05/2020 Jessica:
+
+1. What was done since last scrum:
 
 2. To do until next scrum:
 
 3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+10/05/2020 Gabriel:
+
+1. What was done since last scrum:
+- Read/Watched more on Laravel
+- Continued Practicing with test project
+
+2. To do until next scrum:
+- Start ACTUAL Terp Project
+- Create Migrations
+
+3. Need Assistance:
+- N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TUESDAY
+-----------------
+
+10/05/2020 Jessica:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
+-----------------------------------------------------------------------------------------------------
+
+10/05/2020 Gabriel:
+
+1. What was done since last scrum:
+- Migrations Created (Database)
+
+2. To do until next scrum:
+- Create the layout, for the Model, View, Controller Set-up
+- Create the Header Template
+
+3. Need Assistance:
+- N/A
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
