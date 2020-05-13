@@ -364,7 +364,7 @@ SUNDAY
 MONDAY
 -----------------
 
-10/05/2020 Jessica:
+11/05/2020 Jessica:
 
 1. What was done since last scrum:
 - N/A (mother's day)
@@ -378,7 +378,7 @@ MONDAY
 
 -----------------------------------------------------------------------------------------------------
 
-10/05/2020 Gabriel:
+11/05/2020 Gabriel:
 
 1. What was done since last scrum:
 - Read/Watched more on Laravel
@@ -396,7 +396,7 @@ MONDAY
 TUESDAY
 -----------------
 
-10/05/2020 Jessica:
+12/05/2020 Jessica:
 
 1. What was done since last scrum:
 - completed CRUD using laravel
@@ -411,7 +411,7 @@ TUESDAY
 
 -----------------------------------------------------------------------------------------------------
 
-10/05/2020 Gabriel:
+12/05/2020 Gabriel:
 
 1. What was done since last scrum:
 - Migrations Created (Database)
@@ -422,5 +422,34 @@ TUESDAY
 
 3. Need Assistance:
 - N/A
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WEDNESDAY
+-----------------
+
+13/05/2020 Jessica:
+
+1. What was done since last scrum:
+- tested yotube player with iframe in test project
+
+2. To do until next scrum:
+- implement CRUD for terp
+- test file upload for with tester project (with images and video)
+- add css to terp
+
+3. Need Assistance:
+- N/A
+
+-----------------------------------------------------------------------------------------------------
+
+13/05/2020 Gabriel:
+
+1. What was done since last scrum:
+
+2. To do until next scrum:
+
+3. Need Assistance:
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
