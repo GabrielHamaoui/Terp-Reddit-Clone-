@@ -18,6 +18,7 @@ class CreateForeignKeysForAllTables extends Migration
             $table->index('userId');
             $table->foreign('postId')->references('id')->on('posts')->onDelete('cascade')->onUpdate('cascade');
             $table->index('postId');
+            $table->unique(['userId', 'postId']);
         });
 
         Schema::table('messages', function (Blueprint $table) {

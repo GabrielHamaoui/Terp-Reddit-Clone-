@@ -17,7 +17,7 @@ class CreateSubscriptionsTable extends Migration
             $table->id();
             $table->unsignedBigInteger('userId');
             $table->unsignedBigInteger('communityId');
-            $table->enum('isMod', ['Mod']);
+            $table->enum('isMod', ['Mod'])->nullable();
             $table->timestamps();
         });
     }
