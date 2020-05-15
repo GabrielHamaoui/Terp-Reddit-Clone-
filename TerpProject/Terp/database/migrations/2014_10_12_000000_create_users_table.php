@@ -21,8 +21,8 @@ class CreateUsersTable extends Migration
             $table->string('password');
             $table->rememberToken();
             $table->binary('photo')->nullable(); // todo add default*maybe not, nullable might be good enough
-            $table->integer('votesPoints');
-            $table->enum('isAdmin', ['Admin', 'User']);
+            $table->integer('votesPoints')->default(0);
+            $table->enum('isAdmin', ['Admin', 'User'])->default('User');
             $table->timestamps();
         });
     }

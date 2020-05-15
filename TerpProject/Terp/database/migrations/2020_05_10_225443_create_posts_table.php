@@ -23,7 +23,7 @@ class CreatePostsTable extends Migration
             $table->binary('image')->nullable(); // BLOB equivalent
             $table->string('videoURL', 500)->nullable(); // may use same for video file name
             $table->enum('rating', ['NSFW'])->nullable();
-            $table->integer('votesTotal');
+            $table->integer('votesTotal')->default(0);
             $table->timestamps();
         });
     }

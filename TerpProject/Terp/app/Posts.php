@@ -39,6 +39,6 @@ class Posts extends Model
     }
 
      public function isLikedBy(User $user) {
-        
+
      }
 }

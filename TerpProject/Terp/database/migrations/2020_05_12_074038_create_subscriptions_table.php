@@ -18,6 +18,7 @@ class CreateSubscriptionsTable extends Migration
             $table->unsignedBigInteger('userId');
             $table->unsignedBigInteger('communityId');
             $table->enum('isMod', ['Mod'])->nullable();
+            $table->boolean('isBanned')->default(false);
             $table->timestamps();
         });
     }

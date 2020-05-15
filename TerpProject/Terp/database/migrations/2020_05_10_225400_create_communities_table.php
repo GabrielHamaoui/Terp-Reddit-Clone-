@@ -16,6 +16,7 @@ class CreateCommunitiesTable extends Migration
         Schema::create('communities', function (Blueprint $table) {
             $table->id();
             $table->string('communityName', 24);
+            $table->binary('picture')->nullable();
             $table->enum('rating', ['NSFW'])->nullable();
             $table->timestamps();
         });

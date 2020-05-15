@@ -21,7 +21,9 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/community/{community}', 'CommunitiesController@index');
 
+Route::get('/community/{community}/post/{post}', 'PostsController@index');
 
 
 
